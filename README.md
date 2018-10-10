@@ -25,6 +25,10 @@ This is a C-lab challenge from "Head First C" book.
 
 ![alt Wiring Diagram](img/wiring_diagram.jpg)
 
+## Video Walkthrough
+
+[![Video Walkthrough](img/video_cover.png)](https://youtu.be/GyZn5Qs8PP0)
+
 ## Notes
 
 Describe any challenges encountered while working on project.
